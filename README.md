@@ -10,6 +10,8 @@ dataset.csv contains individual characteristics and promotion outcomes.
 
 ratings.csv contains ratings from 360-degree performance appraisal.
 
+These two datasets will be uploaded after careful data desensitization to protect privacy.
+
 iPython Notebooks:
 
 (1) Feature Engineering.ipynb
