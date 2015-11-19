@@ -6,7 +6,7 @@ Introduction on Task and Context:
 
 Different from traditional top-down performance evaluation where mangers evaluate their subordinates, 360-degree performance appraisal asks everyone in the team to evaluate everyone else. This process generates very rich information about the team. I use individual characteristics and features extracted from the 360-degree performance appraisal to predict promotion outcomes.
 
-Two raw datasets:
+Datasets:
 
 dataset.csv contains individual characteristics and promotion outcomes.
 
